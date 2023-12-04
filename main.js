@@ -222,7 +222,7 @@ function frame(){
     setTimeout(frame, time);
 }
 
-var time = 10;
+var time = 2;
 var play = false;
 var key = 0;
 var net = new Network(2,[5,1]);
